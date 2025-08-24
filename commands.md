@@ -82,7 +82,7 @@ Parameters in commands can include `me`, `all`, `others`, or `random`.
 ### Gear & Clear
 - `:clear`  
   Clears all instances created from gear in the game.
-- `>:gear (player/parameters) (id)`  
+- `:gear (player/parameters) (id)`  
   Spawns a gear item with the given ID for a player or group of players.
 
 ---
