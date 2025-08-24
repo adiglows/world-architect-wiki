@@ -1,0 +1,26 @@
+name: Inject GitHub Owner
+
+on:
+  push:
+    branches: [ main ]  # run only on main branch pushes
+
+jobs:
+  inject-owner:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout the repo
+      - uses: actions/checkout@v3
+
+      # Step 2: Replace placeholder with GitHub owner
+      - name: Inject GitHub Repository Owner
+        run: |
+          sed -i "s/__GITHUB_OWNER__/${{ github.repository_owner }}/g" index.html
+
+      # Step 3: Commit and push the changes
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "Inject GitHub repository owner"
+          git push
