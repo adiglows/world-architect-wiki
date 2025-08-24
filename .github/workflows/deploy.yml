@@ -22,7 +22,13 @@ jobs:
 
       - name: Inject GitHub Repository Owner
         run: |
-          sed -i "s/__GITHUB_OWNER__/${{ github.repository_owner }}/g" index.html
+          OWNER="${{ github.repository_owner }}"
+          if [ "$OWNER" = "adiglows" ]; then
+            FOOTER='Made by <a href="https://github.com/'"$OWNER"'" target="_blank">'$OWNER'</a>'
+          else
+            FOOTER='Forked by <a href="https://github.com/'"$OWNER"'" target="_blank">'$OWNER'</a> from <a href="https://github.com/adiglows" target="_blank">adiglows</a>'
+          fi
+          sed -i "s|__GITHUB_OWNER__|$FOOTER|g" index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
