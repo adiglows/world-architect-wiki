@@ -1,0 +1,10 @@
+# Ignore Python scripts
+generate_blocks_md.py
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
