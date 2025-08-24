@@ -1,7 +1,11 @@
-# Welcome to World Architect's Wiki 👋
-This is the homepage.
+# Home
 
-## Pages
-- [Getting Started](getting-started.md)
-- [FAQ](faq.md)
-- [Examples](examples.md)
+Hello, welcome to the World Architect Wiki! World Architect is a sandbox-building game.
+
+World Architect was created by [UntileKakka](untilekakka.md).
+
+## Useful Categories
+- [Blocks](blocks.md)
+
+## Commands
+See the [Commands List](commands.md)

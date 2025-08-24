@@ -1,4 +1,6 @@
 - [Home](README.md)
-- [Getting Started](getting-started.md)
-- [FAQ](faq.md)
-- [Examples](examples.md)
+- [UntileKakka](untilekakka.md)
+- Categories
+  - [Blocks](blocks.md)
+- Commands
+  - [Commands List](commands.md)
