@@ -3,6 +3,7 @@
 This page lists all available commands in **World Architect**.  
 Commands are grouped by **rank**: Guest, Builder, Admin, and Creator.  
 Parameters in commands can include `me`, `all`, `others`, or `random`.
+You can check all commands while playing by typing `:cmd` or `:cmds` in the chat.
 
 ---
 
