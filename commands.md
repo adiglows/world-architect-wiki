@@ -79,6 +79,12 @@ Parameters in commands can include `me`, `all`, `others`, or `random`.
 - `:banlist`  
   Displays a list of all players you have banned.
 
+### Gear & Clear
+- `:clear`  
+  Clears all instances created from gear in the game.
+- `>:gear (player/parameters) (id)`  
+  Spawns a gear item with the given ID for a player or group of players.
+
 ---
 
 ## Creator Commands
