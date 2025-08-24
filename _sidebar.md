@@ -1,7 +1,5 @@
 - [Home](README.md)
 - [UntileKakka](untilekakka.md)
-- Categories
-  - [Blocks](blocks.md)
 - Commands
   - [Guest](commands.md#guest-commands)
   - [Builder](commands.md#builder-commands)
