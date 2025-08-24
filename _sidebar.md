@@ -8,7 +8,6 @@
   - [Admin](commands.md#admin-commands)
   - [Creator](commands.md#creator-commands)
 - Blocks
-  - [Uncategorized](blocks.md#uncategorized)
   - [Building Blocks](blocks.md#building-blocks)
   - [Christmas](blocks.md#christmas)
   - [Decorations](blocks.md#decorations)
