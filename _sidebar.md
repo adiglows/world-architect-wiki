@@ -3,4 +3,7 @@
 - Categories
   - [Blocks](blocks.md)
 - Commands
-  - [Commands List](commands.md)
+  - [Guest](commands.md#guest-commands)
+  - [Builder](commands.md#builder-commands)
+  - [Admin](commands.md#admin-commands)
+  - [Creator](commands.md#creator-commands)
