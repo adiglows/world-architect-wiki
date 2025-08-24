@@ -48,8 +48,28 @@
           text-decoration: underline;
         }
       </style>
-      <footer id="made-by">
-        __GITHUB_OWNER__
-      </footer>
+      <footer id="made-by"></footer>
+        <script>
+      (function() {
+        const owner = "adiglows"; // original repo owner
+        let githubRepoOwner = owner;
+
+        // Detect forked username from the URL if hosted on github.io
+        if (location.hostname.includes("github.io")) {
+          const pathParts = location.pathname.split('/');
+          if (pathParts.length > 1 && pathParts[1].toLowerCase() !== owner.toLowerCase()) {
+            githubRepoOwner = pathParts[1];
+          }
+        }
+
+        const footerDiv = document.getElementById("made-by");
+
+        if (githubRepoOwner.toLowerCase() === owner.toLowerCase()) {
+          footerDiv.innerHTML = `Made by <a href="https://github.com/${owner}" target="_blank">${owner}</a>`;
+        } else {
+          footerDiv.innerHTML = `Forked by <a href="https://github.com/${githubRepoOwner}" target="_blank">${githubRepoOwner}</a> from <a href="https://github.com/${owner}" target="_blank">${owner}</a>`;
+        }
+      })();
+    </script>
   </body>
 </html>
