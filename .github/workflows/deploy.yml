@@ -28,7 +28,10 @@ jobs:
           else
             FOOTER='Forked by <a href="https://github.com/'"$OWNER"'" target="_blank">'$OWNER'</a> from <a href="https://github.com/adiglows" target="_blank">adiglows</a>'
           fi
-          sed -i "s|__GITHUB_OWNER__|$FOOTER|g" index.html
+          # Use printf to safely inject HTML with quotes
+          printf '%s' "$FOOTER" > footer.html
+          # Replace placeholder in index.html
+          sed -i "s|__GITHUB_OWNER__|$(cat footer.html)|g" index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
