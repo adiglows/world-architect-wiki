@@ -25,7 +25,30 @@
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
-      <footer style="opacity:0.5; font-size:12px; text-align:center; margin-top:50px;">
+      <style>
+        #made-by {
+          opacity: 0.5;
+          font-size: 12px;
+          text-align: center;
+          margin-top: 50px;
+          color: #333;            /* dark gray for visibility */
+          position: fixed;        /* always at bottom */
+          bottom: 10px;
+          left: 0;
+          right: 0;
+          z-index: 9999;          /* ensure it's above docsify content */
+        }
+
+        #made-by a {
+          color: inherit;         /* match the text color */
+          text-decoration: none;  /* remove underline */
+        }
+
+        #made-by a:hover {
+          text-decoration: underline;
+        }
+      </style>
+      <footer id="made-by">
         __GITHUB_OWNER__
       </footer>
   </body>
