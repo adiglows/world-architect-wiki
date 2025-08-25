@@ -1,7 +1,7 @@
 # UntileKakka
 
 ## Main Info
-<img class="" src="https://t2.rbxcdn.com/30DAY-AvatarHeadshot-17441E080E9DD79F37219DC82B709BB6-Png" alt="The Creator" width="128" height="128">
+<img class="" src="https://t2.rbxcdn.com/30DAY-AvatarHeadshot-17441E080E9DD79F37219DC82B709BB6-Png" alt="The Creator" style="width:128px;height:128px;">
 
 [UntileKakka](https://www.roblox.com/users/159871912/profile)(AKA) Lee is the creator of the World building sandbox Roblox game. World Architect development started 25th Jun of 2025 and first Opened at 28 June. 
 
