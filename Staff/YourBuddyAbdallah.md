@@ -7,7 +7,7 @@
 [YourBuddyAbdallah](https://www.roblox.com/users/205584384/profile) — (AKA) Varangian is the first ever Community Manager to exist within World Architect. More information on Varangian will be shown soon!
 
 ### Quote
-"Islam is the way..."
+"Islam is great.."
 
 ### Lore
 Indeed, he was a Community Manager in another thriving community but he was replaced by another member due to his experience. At the end that community did not last long as the member chosen to be the Manager did absolutely nothing and made Varangian blood boil...
