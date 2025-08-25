@@ -5,6 +5,9 @@
   - [Administrator](staff.md#administrator)
   - [Senior Moderator](staff.md#senior-moderator)
   - [Junior Moderator](staff.md#junior-moderator)
+- Wiki Team
+  - [Wiki Team Leader](Wiki_Team.md#wiki-team-leader)
+  - [Contributors](Wiki_Team.md#contributors)
 - Commands
   - [Guest](commands.md#guest-commands)
   - [Builder](commands.md#builder-commands)
