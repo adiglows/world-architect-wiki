@@ -3,6 +3,8 @@
   - [UntileKakka](untilekakka.md)
   - [Hxkjajdjhshs](hxkjajdjhshs.md)
 - Staff
+  - [Creator](staff.md#creator)
+  - [Developer](staff.md#developer)
   - [Administrator](staff.md#administrator)
   - [Senior Moderator](staff.md#senior-moderator)
   - [Junior Moderator](staff.md#junior-moderator)
