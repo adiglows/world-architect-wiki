@@ -1,6 +1,6 @@
 # Featured Posts ⭐
 
-## XOR Gate before XOR Gate existed (⭐ 3)
+## 🥇 XOR Gate before XOR Gate existed (⭐ 3)
 [View Post](https://discord.com/channels/1407297283220836372/1409159643846148127/1409159643846148127)
 
 This is a XOR Gate using 3 Switches. This build only uses 4 OR Gates, 2 Inverters and 4 AND Gates
