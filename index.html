@@ -51,5 +51,25 @@
       <footer id="made-by">
         Made by <a href="https://github.com/adiglows" target="_blank">adiglows</a>
       </footer>
+      <style>
+      .block-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+      }
+      .block-item {
+        flex: 0 0 calc(25% - 16px); /* 4 per row */
+        text-align: center;
+      }
+      .block-item img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+      }
+      .block-item p {
+        margin: 4px 0 0;
+        font-size: 14px;
+      }
+</style>
   </body>
 </html>
