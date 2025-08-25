@@ -10,7 +10,6 @@
   - [Christmas](blocks.md#christmas)
   - [Decorations](blocks.md#decorations)
   - [Functional Block](blocks.md#functional-block)
-  - [Logics](blocks.md#logics)
   - [Nature](blocks.md#nature)
   - [SciFi](blocks.md#scifi)
   - [Terrain](blocks.md#terrain)
