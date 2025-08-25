@@ -1,5 +1,6 @@
 # Ignore Python scripts
 generate_blocks_md.py
+test.py
 
 # Ignore Python cache files
 __pycache__/

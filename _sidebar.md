@@ -1,9 +1,16 @@
 - [Home](README.md)
 - [UntileKakka](untilekakka.md)
-- Categories
-  - [Blocks](blocks.md)
 - Commands
   - [Guest](commands.md#guest-commands)
   - [Builder](commands.md#builder-commands)
   - [Admin](commands.md#admin-commands)
   - [Creator](commands.md#creator-commands)
+- Blocks
+  - [Building Blocks](blocks.md#building-blocks)
+  - [Christmas](blocks.md#christmas)
+  - [Decorations](blocks.md#decorations)
+  - [Functional Block](blocks.md#functional-block)
+  - [Nature](blocks.md#nature)
+  - [SciFi](blocks.md#scifi)
+  - [Terrain](blocks.md#terrain)
+  - [Urban](blocks.md#urban)
