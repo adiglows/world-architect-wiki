@@ -1,4 +1,4 @@
-name: Update Staff Page
+name: Update Roles
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # manual trigger
 
 jobs:
-  update-staff:
+  update-roles:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,10 +23,13 @@ jobs:
       - name: Run staff fetcher
         run: python staff_fetcher.py
 
+      - name: Run wiki team fetcher
+        run: python wiki_team_fetcher.py
+
       - name: Commit and push changes if any
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add staff.md
-          git diff --cached --quiet || git commit -m "Update staff list"
+          git add staff.md Wiki_Team.md Staff/ Wiki_Team/
+          git diff --cached --quiet || git commit -m "Update roles and wiki team"
           git push || true
