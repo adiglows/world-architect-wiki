@@ -1,0 +1,37 @@
+name: Update Featured Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-featured:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Install dependencies
+        run: npm install discord.js dotenv
+
+      - name: Run fetch script
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          GUILD_ID: ${{ secrets.GUILD_ID }}
+          CREATIONS_CHANNEL_ID: ${{ secrets.CREATIONS_CHANNEL_ID }}
+          FEATURED_TAG_ID: ${{ secrets.FEATURED_TAG_ID }}
+        run: node fetch_featured.js > featured_posts.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add featured_posts.md
+          git diff --cached --quiet || git commit -m "Update featured posts"
+          git push || true
