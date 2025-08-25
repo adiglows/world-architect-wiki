@@ -10,4 +10,3 @@
 "Islam is the way..."
 
 ### Lore
-Coming soon, being written by Varangian.
