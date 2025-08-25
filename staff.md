@@ -1,26 +1,120 @@
 ## Creator
 
-- [UntileKakka](Staff/UntileKakka.md)
+<div class="block-grid">
+
+  <div class="block-item">
+    <a href="#/Staff\UntileKakka.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-17441E080E9DD79F37219DC82B709BB6-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
+      <p>UntileKakka</p>
+    </a>
+    <!-- VSCode nav: [Staff\UntileKakka.md](Staff\UntileKakka.md) -->
+  </div>
+</div>
 
 ## Developer
 
-- [hxkjajdjhshs](Staff/hxkjajdjhshs.md)
+<div class="block-grid">
+
+  <div class="block-item">
+    <a href="#/Staff\hxkjajdjhshs.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0E1A73DEA10B631087B4B2214414B262-Png/420/420/AvatarHeadshot/Png/noFilter" alt="hxkjajdjhshs">
+      <p>hxkjajdjhshs</p>
+    </a>
+    <!-- VSCode nav: [Staff\hxkjajdjhshs.md](Staff\hxkjajdjhshs.md) -->
+  </div>
+</div>
 
 ## Administrator
 
-- [YourBuddyAbdallah](Staff/YourBuddyAbdallah.md)
-- [torvik122](Staff/torvik122.md)
-- [pvzking12345](Staff/pvzking12345.md)
-- [winterlinging](Staff/winterlinging.md)
+<div class="block-grid">
+
+  <div class="block-item">
+    <a href="#/Staff\YourBuddyAbdallah.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CC8D161A41CAFD3758133282FF1992BF-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
+      <p>YourBuddyAbdallah</p>
+    </a>
+    <!-- VSCode nav: [Staff\YourBuddyAbdallah.md](Staff\YourBuddyAbdallah.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff\torvik122.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DB36A9EB2F29027784513FE239D1F4E9-Png/420/420/AvatarHeadshot/Png/noFilter" alt="torvik122">
+      <p>torvik122</p>
+    </a>
+    <!-- VSCode nav: [Staff\torvik122.md](Staff\torvik122.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff\pvzking12345.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C9F428C68361CE99C85F890861C77238-Png/420/420/AvatarHeadshot/Png/noFilter" alt="pvzking12345">
+      <p>pvzking12345</p>
+    </a>
+    <!-- VSCode nav: [Staff\pvzking12345.md](Staff\pvzking12345.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff\winterlinging.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D35A08945408077D4427EF8A92DAC712-Png/420/420/AvatarHeadshot/Png/noFilter" alt="winterlinging">
+      <p>winterlinging</p>
+    </a>
+    <!-- VSCode nav: [Staff\winterlinging.md](Staff\winterlinging.md) -->
+  </div>
+</div>
 
 ## Senior Moderator
 
-- [danin232622131_YT](Staff/danin232622131_YT.md)
-- [kotValentin](Staff/kotValentin.md)
-- [MrDuck1501](Staff/MrDuck1501.md)
+<div class="block-grid">
+
+  <div class="block-item">
+    <a href="#/Staff\danin232622131_YT.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0E2871C3512196392939C63E5D2DC5AF-Png/420/420/AvatarHeadshot/Png/noFilter" alt="danin232622131_YT">
+      <p>danin232622131_YT</p>
+    </a>
+    <!-- VSCode nav: [Staff\danin232622131_YT.md](Staff\danin232622131_YT.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff\kotValentin.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C578B6087B83D85AADC037707FBB4CF9-Png/420/420/AvatarHeadshot/Png/noFilter" alt="kotValentin">
+      <p>kotValentin</p>
+    </a>
+    <!-- VSCode nav: [Staff\kotValentin.md](Staff\kotValentin.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff\MrDuck1501.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-045D44EB49EF5203269099646B13FF14-Png/420/420/AvatarHeadshot/Png/noFilter" alt="MrDuck1501">
+      <p>MrDuck1501</p>
+    </a>
+    <!-- VSCode nav: [Staff\MrDuck1501.md](Staff\MrDuck1501.md) -->
+  </div>
+</div>
 
 ## Junior Moderator
 
-- [ruben070hallo](Staff/ruben070hallo.md)
-- [Shelby_Toner](Staff/Shelby_Toner.md)
-- [Wievo12](Staff/Wievo12.md)
+<div class="block-grid">
+
+  <div class="block-item">
+    <a href="#/Staff\ruben070hallo.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62F9BBEA724DE208BE8CE9A71533CE3C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="ruben070hallo">
+      <p>ruben070hallo</p>
+    </a>
+    <!-- VSCode nav: [Staff\ruben070hallo.md](Staff\ruben070hallo.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff\Shelby_Toner.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7CF5B9B06EC3566E6741EA488DA0938B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Shelby_Toner">
+      <p>Shelby_Toner</p>
+    </a>
+    <!-- VSCode nav: [Staff\Shelby_Toner.md](Staff\Shelby_Toner.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff\Wievo12.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-19D0BEFBC034784E1A835081BDB89F89-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
+      <p>Wievo12</p>
+    </a>
+    <!-- VSCode nav: [Staff\Wievo12.md](Staff\Wievo12.md) -->
+  </div>
+</div>

@@ -42,7 +42,8 @@ def create_wiki_team_page(username, avatar_url, profile_url):
 # Main
 # ----------------------------
 def main():
-    contributors = fetch_github_contributors(GITHUB_REPO)
+    contributors = [c for c in fetch_github_contributors(GITHUB_REPO) 
+                if c["type"] != "Bot" and c["login"] != "github-actions[bot]"]
     md_lines = []
 
     # Leader
