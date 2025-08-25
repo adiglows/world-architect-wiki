@@ -1,5 +1,9 @@
 - [Home](README.md)
 - [UntileKakka](untilekakka.md)
+- Staff
+  - [Administrator](staff.md#administrator)
+  - [Senior Moderator](staff.md#senior-moderator)
+  - [Junior Moderator](staff.md#junior-moderator)
 - Commands
   - [Guest](commands.md#guest-commands)
   - [Builder](commands.md#builder-commands)
