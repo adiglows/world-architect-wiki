@@ -44,14 +44,10 @@ client.once('ready', async () => {
 async function checkFeaturedPosts() {
   try {
     const guild = client.guilds.cache.get(process.env.GUILD_ID);
-    if (!guild) {
-      throw new Error('Guild not found');
-    }
+    if (!guild) throw new Error('Guild not found');
 
     const channel = guild.channels.cache.get(process.env.CREATIONS_CHANNEL_ID);
-    if (!channel || !channel.isThreadOnly()) {
-      throw new Error('Invalid forum channel');
-    }
+    if (!channel || !channel.isThreadOnly()) throw new Error('Invalid forum channel');
 
     const threads = await channel.threads.fetchActive();
     const featuredPosts = [];
@@ -61,13 +57,30 @@ async function checkFeaturedPosts() {
 
       if (hasFeaturedTag) {
         const message = await thread.fetchStarterMessage();
-        const starReaction = message?.reactions.cache.find(r => r.emoji.name === '⭐');
+        if (!message) continue;
+
+        const starReaction = message.reactions.cache.find(r => r.emoji.name === '⭐');
         const starCount = starReaction?.count || 0;
+
+        // Get preview of message content
+        let preview = message.content?.trim() || '';
+        if (preview.length > 200) preview = preview.slice(0, 200) + '...';
+
+        // Get first image attachment (if any)
+        let imageMarkdown = '';
+        if (message.attachments.size > 0) {
+          const img = message.attachments.find(att => att.contentType?.startsWith('image/'));
+          if (img) {
+            imageMarkdown = `\n\n![image](${img.url})`;
+          }
+        }
 
         featuredPosts.push({
           title: thread.name,
-          url: message?.url || thread.url,
+          url: message.url || thread.url,
           stars: starCount,
+          preview,
+          imageMarkdown,
         });
       }
     }
@@ -81,12 +94,16 @@ async function checkFeaturedPosts() {
       output += "_No featured posts found._\n";
     } else {
       featuredPosts.forEach(p => {
-        output += `- [${p.title}](${p.url}) - ⭐ ${p.stars}\n`;
+        output += `## ${p.title} (⭐ ${p.stars})\n`;
+        output += `[View Post](${p.url})\n\n`;
+        if (p.preview) output += `${p.preview}\n`;
+        if (p.imageMarkdown) output += `${p.imageMarkdown}\n`;
+        output += `\n---\n\n`;
       });
     }
 
     // Save to markdown file
-    fs.writeFileSync("featured_posts.md", output);
+    fs.writeFileSync("featured_posts.md", output.trim() + "\n");
     console.log("✅ featured_posts.md updated!");
   } catch (error) {
     console.error('Error checking featured posts:', error);
