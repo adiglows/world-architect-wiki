@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Driving in my car, right after a... wait...
 
 ## Notes
 <!-- Any extra notes -->

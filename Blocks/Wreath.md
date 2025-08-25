@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+I'm no christian, but. Nice wreath.
 
 ## Notes
 <!-- Any extra notes -->

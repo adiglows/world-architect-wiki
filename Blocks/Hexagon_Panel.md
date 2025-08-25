@@ -4,9 +4,6 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
-
+Hexagon panel.
 ## Notes
 <!-- Any extra notes -->

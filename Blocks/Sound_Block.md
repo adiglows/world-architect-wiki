@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+I placed down the sound block... Suddenly, there was the party feeling..
 
 ## Notes
 <!-- Any extra notes -->

@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+We're missing a turkey here.
 
 ## Notes
 <!-- Any extra notes -->

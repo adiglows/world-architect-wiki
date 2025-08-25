@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+This is a SpotLight block.
 
 ## Notes
 <!-- Any extra notes -->

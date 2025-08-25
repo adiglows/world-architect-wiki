@@ -4,9 +4,6 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
-
+Cylinder V2 is a stretchable/Resizeable cyclinder unlike the normal Cylinder where it cannot be stretched when scaling.
 ## Notes
 <!-- Any extra notes -->

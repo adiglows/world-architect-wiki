@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Sand terrain block, Resizeable terrain block.
 
 ## Notes
 <!-- Any extra notes -->

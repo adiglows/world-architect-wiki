@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Grass terrain block, Resizeable terrain block. (Touch grass)
 
 ## Notes
 <!-- Any extra notes -->

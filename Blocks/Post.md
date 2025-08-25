@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+This is some gardening post.
 
 ## Notes
 <!-- Any extra notes -->

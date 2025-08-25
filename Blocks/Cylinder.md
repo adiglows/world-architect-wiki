@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Unlike Cylinder V2, This cylinder can't be stretched when scaling.
 
 ## Notes
 <!-- Any extra notes -->

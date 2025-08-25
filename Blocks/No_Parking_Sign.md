@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+DON'T PARK HERE. I WILL CALL THE TOW SERVICE.
 
 ## Notes
 <!-- Any extra notes -->

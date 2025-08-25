@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Cracked lava terrain block, Resizeable terrain block.
 
 ## Notes
 <!-- Any extra notes -->

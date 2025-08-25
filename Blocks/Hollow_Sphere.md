@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Hollow sphere.
 
 ## Notes
 <!-- Any extra notes -->

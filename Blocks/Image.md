@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Image? (It only load content on client side, so no server side sadly womp womp)
 
 ## Notes
 <!-- Any extra notes -->

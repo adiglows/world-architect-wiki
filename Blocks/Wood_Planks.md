@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Wood planks terrain block, Resizeable terrain block.
 
 ## Notes
 <!-- Any extra notes -->

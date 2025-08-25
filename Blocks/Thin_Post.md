@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Ooo, Gardening thin post.. Time to hang a sign telling people not to step on my virtual plant...
 
 ## Notes
 <!-- Any extra notes -->

@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Oh no this has nothing to do with Snow terrain. This snow object has a property where its fillable!!
 
 ## Notes
 <!-- Any extra notes -->

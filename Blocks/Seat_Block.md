@@ -4,9 +4,7 @@
 
 ## Description
 <!-- Write a description for this block -->
-
-## Properties
-- <!-- List block properties here -->
+Seat block. So you can sit.
 
 ## Notes
 <!-- Any extra notes -->
