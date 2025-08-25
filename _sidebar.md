@@ -1,7 +1,4 @@
 - [Home](README.md)
-- Creator and Teams
-  - [UntileKakka](untilekakka.md)
-  - [Hxkjajdjhshs](hxkjajdjhshs.md)
 - Staff
   - [Creator](staff.md#creator)
   - [Developer](staff.md#developer)
