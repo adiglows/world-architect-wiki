@@ -1,7 +1,7 @@
 - [Home](README.md)
 - Creator and Teams
-- [UntileKakka](untilekakka.md)
-- [Hxkjajdjhshs](hxkjajdjhshs.md)
+  - [UntileKakka](untilekakka.md)
+  - [Hxkjajdjhshs](hxkjajdjhshs.md)
 - Staff
   - [Administrator](staff.md#administrator)
   - [Senior Moderator](staff.md#senior-moderator)
