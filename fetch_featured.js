@@ -88,13 +88,21 @@ async function checkFeaturedPosts() {
     // Sort posts by star count
     featuredPosts.sort((a, b) => b.stars - a.stars);
 
+    // Ranking emojis for top 3
+    const rankEmojis = ["🥇", "🥈", "🥉"];
+
     // Build markdown output
     let output = "# Featured Posts ⭐\n\n";
     if (featuredPosts.length === 0) {
       output += "_No featured posts found._\n";
     } else {
-      featuredPosts.forEach(p => {
-        output += `## ${p.title} (⭐ ${p.stars})\n`;
+      featuredPosts.forEach((p, i) => {
+        let titleLine = `## ${p.title} (⭐ ${p.stars})`;
+        if (i < 3) {
+          titleLine = `## ${rankEmojis[i]} ${p.title} (⭐ ${p.stars})`;
+        }
+
+        output += `${titleLine}\n`;
         output += `[View Post](${p.url})\n\n`;
         if (p.preview) output += `${p.preview}\n`;
         if (p.imageMarkdown) output += `${p.imageMarkdown}\n`;
