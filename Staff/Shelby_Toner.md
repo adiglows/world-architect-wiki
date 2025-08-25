@@ -1,13 +1,13 @@
 # Shelby_Toner
 
 ## Main Info
-<img class="" src="https://t2.rbxcdn.com/30DAY-AvatarHeadshot-17441E080E9DD79F37219DC82B709BB6-Png" alt="Shelby_Toner" style="width:128px;height:128px;">
+<img class="" src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7CF5B9B06EC3566E6741EA488DA0938B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Shelby_Toner" style="width:128px;height:128px;">
 
 ## About
-[Shelby_Toner](https://www.roblox.com/users/USERID/profile) (AKA) ... description goes here ...
+[Shelby_Toner](https://www.roblox.com/users/4136458748/profile) — Write a short bio here.
 
 ### Quote
-said, `"Insert quote here..."`
+<!-- Add a quote here -->
 
 ### Lore
-Insert lore or story here...
+<!-- Add lore here -->

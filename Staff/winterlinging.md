@@ -1,13 +1,13 @@
 # winterlinging
 
 ## Main Info
-<img class="" src="https://t2.rbxcdn.com/30DAY-AvatarHeadshot-17441E080E9DD79F37219DC82B709BB6-Png" alt="winterlinging" style="width:128px;height:128px;">
+<img class="" src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D35A08945408077D4427EF8A92DAC712-Png/420/420/AvatarHeadshot/Png/noFilter" alt="winterlinging" style="width:128px;height:128px;">
 
 ## About
-[winterlinging](https://www.roblox.com/users/USERID/profile) (AKA) ... description goes here ...
+[winterlinging](https://www.roblox.com/users/157794595/profile) — Write a short bio here.
 
 ### Quote
-said, `"Insert quote here..."`
+<!-- Add a quote here -->
 
 ### Lore
-Insert lore or story here...
+<!-- Add lore here -->

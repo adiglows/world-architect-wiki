@@ -1,13 +1,13 @@
 # ruben070hallo
 
 ## Main Info
-<img class="" src="https://t2.rbxcdn.com/30DAY-AvatarHeadshot-17441E080E9DD79F37219DC82B709BB6-Png" alt="ruben070hallo" style="width:128px;height:128px;">
+<img class="" src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62F9BBEA724DE208BE8CE9A71533CE3C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="ruben070hallo" style="width:128px;height:128px;">
 
 ## About
-[ruben070hallo](https://www.roblox.com/users/USERID/profile) (AKA) ... description goes here ...
+[ruben070hallo](https://www.roblox.com/users/907520870/profile) — Write a short bio here.
 
 ### Quote
-said, `"Insert quote here..."`
+<!-- Add a quote here -->
 
 ### Lore
-Insert lore or story here...
+<!-- Add lore here -->

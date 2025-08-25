@@ -1,13 +1,13 @@
 # torvik122
 
 ## Main Info
-<img class="" src="https://t2.rbxcdn.com/30DAY-AvatarHeadshot-17441E080E9DD79F37219DC82B709BB6-Png" alt="torvik122" style="width:128px;height:128px;">
+<img class="" src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DB36A9EB2F29027784513FE239D1F4E9-Png/420/420/AvatarHeadshot/Png/noFilter" alt="torvik122" style="width:128px;height:128px;">
 
 ## About
-[torvik122](https://www.roblox.com/users/USERID/profile) (AKA) ... description goes here ...
+[torvik122](https://www.roblox.com/users/4228202305/profile) — Write a short bio here.
 
 ### Quote
-said, `"Insert quote here..."`
+<!-- Add a quote here -->
 
 ### Lore
-Insert lore or story here...
+<!-- Add lore here -->
