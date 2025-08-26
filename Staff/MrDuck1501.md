@@ -8,6 +8,8 @@
 
 Extra note, I think MrDuck loves Half Life 3!
 
+This Staff Member has sadly retired...
+
 ### Quote
 "Half Life 3 isn't a myth."
 
