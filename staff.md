@@ -38,7 +38,7 @@
 
   <div class="block-item">
     <a href="#/Staff/pvzking12345.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C9F428C68361CE99C85F890861C77238-Png/420/420/AvatarHeadshot/Png/noFilter" alt="pvzking12345">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F2BCD4669203148482483BC29BA6D634-Png/420/420/AvatarHeadshot/Png/noFilter" alt="pvzking12345">
       <p>pvzking12345</p>
     </a>
     <!-- VSCode nav: [Staff/pvzking12345.md](Staff/pvzking12345.md) -->
