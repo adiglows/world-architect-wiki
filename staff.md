@@ -29,14 +29,6 @@
 <div class="block-grid">
 
   <div class="block-item">
-    <a href="#/Staff/YourBuddyAbdallah.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CC8D161A41CAFD3758133282FF1992BF-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
-      <p>YourBuddyAbdallah</p>
-    </a>
-    <!-- VSCode nav: [Staff/YourBuddyAbdallah.md](Staff/YourBuddyAbdallah.md) -->
-  </div>
-
-  <div class="block-item">
     <a href="#/Staff/torvik122.md">
       <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DB36A9EB2F29027784513FE239D1F4E9-Png/420/420/AvatarHeadshot/Png/noFilter" alt="torvik122">
       <p>torvik122</p>
@@ -82,25 +74,17 @@
   </div>
 
   <div class="block-item">
-    <a href="#/Staff/MrDuck1501.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-045D44EB49EF5203269099646B13FF14-Png/420/420/AvatarHeadshot/Png/noFilter" alt="MrDuck1501">
-      <p>MrDuck1501</p>
-    </a>
-    <!-- VSCode nav: [Staff/MrDuck1501.md](Staff/MrDuck1501.md) -->
-  </div>
-</div>
-
-## Junior Moderator
-
-<div class="block-grid">
-
-  <div class="block-item">
     <a href="#/Staff/ruben070hallo.md">
       <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62F9BBEA724DE208BE8CE9A71533CE3C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="ruben070hallo">
       <p>ruben070hallo</p>
     </a>
     <!-- VSCode nav: [Staff/ruben070hallo.md](Staff/ruben070hallo.md) -->
   </div>
+</div>
+
+## Junior Moderator
+
+<div class="block-grid">
 
   <div class="block-item">
     <a href="#/Staff/Shelby_Toner.md">
