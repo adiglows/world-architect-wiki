@@ -66,14 +66,6 @@
   </div>
 
   <div class="block-item">
-    <a href="#/Staff/kotValentin.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C578B6087B83D85AADC037707FBB4CF9-Png/420/420/AvatarHeadshot/Png/noFilter" alt="kotValentin">
-      <p>kotValentin</p>
-    </a>
-    <!-- VSCode nav: [Staff/kotValentin.md](Staff/kotValentin.md) -->
-  </div>
-
-  <div class="block-item">
     <a href="#/Staff/ruben070hallo.md">
       <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62F9BBEA724DE208BE8CE9A71533CE3C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="ruben070hallo">
       <p>ruben070hallo</p>
@@ -85,14 +77,6 @@
 ## Junior Moderator
 
 <div class="block-grid">
-
-  <div class="block-item">
-    <a href="#/Staff/Shelby_Toner.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7CF5B9B06EC3566E6741EA488DA0938B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Shelby_Toner">
-      <p>Shelby_Toner</p>
-    </a>
-    <!-- VSCode nav: [Staff/Shelby_Toner.md](Staff/Shelby_Toner.md) -->
-  </div>
 
   <div class="block-item">
     <a href="#/Staff/Wievo12.md">
