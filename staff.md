@@ -38,7 +38,7 @@
 
   <div class="block-item">
     <a href="#/Staff/YourBuddyAbdallah.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C5CD06C351D8E22E831FEC55FC419C4C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0EA6EB495599A0661CC18944EDDF033E-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
       <p>YourBuddyAbdallah</p>
     </a>
     <!-- VSCode nav: [Staff/YourBuddyAbdallah.md](Staff/YourBuddyAbdallah.md) -->
@@ -54,7 +54,7 @@
 
   <div class="block-item">
     <a href="#/Staff/MrDuck1501.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0668FA0DD07932B1448FA3A3EC68906B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="MrDuck1501">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B184520C570EEAEFBE5E22185F7261C3-Png/420/420/AvatarHeadshot/Png/noFilter" alt="MrDuck1501">
       <p>MrDuck1501</p>
     </a>
     <!-- VSCode nav: [Staff/MrDuck1501.md](Staff/MrDuck1501.md) -->
@@ -88,7 +88,7 @@
 
   <div class="block-item">
     <a href="#/Staff/Wievo12.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-19D0BEFBC034784E1A835081BDB89F89-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B3771331689ADB10F1B880BEC10A99BD-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
       <p>Wievo12</p>
     </a>
     <!-- VSCode nav: [Staff/Wievo12.md](Staff/Wievo12.md) -->
