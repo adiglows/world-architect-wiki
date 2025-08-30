@@ -323,20 +323,24 @@ body::before {
 
 /* Footer styling */
 #made-by {
-  background: rgba(15, 23, 42, 0.8);
+  background: rgba(15, 23, 42, 0.8) !important;
   backdrop-filter: blur(10px);
   border: 1px solid var(--border-color);
-  color: var(--text-muted);
+  color: var(--text-muted) !important;
   padding: 8px 16px;
   border-radius: 8px;
-  width: fit-content;
-  position: fixed;
+  width: fit-content !important;
+  position: fixed !important;
   pointer-events: auto;
-  bottom: 10px;
-  left: 50%;
-  right: auto;
-  transform: translateX(-50%);
-  z-index: 9999;
+  bottom: 10px !important;
+  left: 50% !important;
+  right: auto !important;
+  transform: translateX(-50%) !important;
+  z-index: 9999 !important;
+  margin: 0 !important;
+  opacity: 1 !important;
+  font-size: 12px;
+  text-align: center;
 }
 
 #made-by::before {
