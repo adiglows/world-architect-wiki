@@ -4,7 +4,7 @@
 
   <div class="block-item">
     <a href="#/Staff/UntileKakka.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-748A350DD4D55B8E7F1B17A4B33D0038-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-24C917D5ADAC45C7C84CFA1523E576F0-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
       <p>UntileKakka</p>
     </a>
     <!-- VSCode nav: [Staff/UntileKakka.md](Staff/UntileKakka.md) -->
@@ -38,7 +38,7 @@
 
   <div class="block-item">
     <a href="#/Staff/YourBuddyAbdallah.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0EA6EB495599A0661CC18944EDDF033E-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C5CD06C351D8E22E831FEC55FC419C4C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
       <p>YourBuddyAbdallah</p>
     </a>
     <!-- VSCode nav: [Staff/YourBuddyAbdallah.md](Staff/YourBuddyAbdallah.md) -->
@@ -54,7 +54,7 @@
 
   <div class="block-item">
     <a href="#/Staff/MrDuck1501.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B184520C570EEAEFBE5E22185F7261C3-Png/420/420/AvatarHeadshot/Png/noFilter" alt="MrDuck1501">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0668FA0DD07932B1448FA3A3EC68906B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="MrDuck1501">
       <p>MrDuck1501</p>
     </a>
     <!-- VSCode nav: [Staff/MrDuck1501.md](Staff/MrDuck1501.md) -->
@@ -80,6 +80,14 @@
     </a>
     <!-- VSCode nav: [Staff/DUDUMAUS.md](Staff/DUDUMAUS.md) -->
   </div>
+
+  <div class="block-item">
+    <a href="#/Staff/danin232622131_YT.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0E2871C3512196392939C63E5D2DC5AF-Png/420/420/AvatarHeadshot/Png/noFilter" alt="danin232622131_YT">
+      <p>danin232622131_YT</p>
+    </a>
+    <!-- VSCode nav: [Staff/danin232622131_YT.md](Staff/danin232622131_YT.md) -->
+  </div>
 </div>
 
 ## Junior Moderator
@@ -96,7 +104,7 @@
 
   <div class="block-item">
     <a href="#/Staff/Shelby_Toner.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7CF5B9B06EC3566E6741EA488DA0938B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Shelby_Toner">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CDB8007395CD042387D27F8B8BF1DEA8-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Shelby_Toner">
       <p>Shelby_Toner</p>
     </a>
     <!-- VSCode nav: [Staff/Shelby_Toner.md](Staff/Shelby_Toner.md) -->
