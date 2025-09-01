@@ -4,7 +4,7 @@
 
   <div class="block-item">
     <a href="#/Staff/UntileKakka.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1CE3A2B8473D7F9C3AAE19C78FF45C48-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E83FC2454677952C69334FC45434147D-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
       <p>UntileKakka</p>
     </a>
     <!-- VSCode nav: [Staff/UntileKakka.md](Staff/UntileKakka.md) -->
@@ -46,7 +46,7 @@
 
   <div class="block-item">
     <a href="#/Staff/kotValentin.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-685F3B0F195039203B3D174D5F93ED92-Png/420/420/AvatarHeadshot/Png/noFilter" alt="kotValentin">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-46E922F99C0260297CB03F4E0E0D6074-Png/420/420/AvatarHeadshot/Png/noFilter" alt="kotValentin">
       <p>kotValentin</p>
     </a>
     <!-- VSCode nav: [Staff/kotValentin.md](Staff/kotValentin.md) -->
@@ -54,7 +54,7 @@
 
   <div class="block-item">
     <a href="#/Staff/MrDuck1501.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B184520C570EEAEFBE5E22185F7261C3-Png/420/420/AvatarHeadshot/Png/noFilter" alt="MrDuck1501">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0668FA0DD07932B1448FA3A3EC68906B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="MrDuck1501">
       <p>MrDuck1501</p>
     </a>
     <!-- VSCode nav: [Staff/MrDuck1501.md](Staff/MrDuck1501.md) -->
