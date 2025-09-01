@@ -38,7 +38,7 @@
 
   <div class="block-item">
     <a href="#/Staff/YourBuddyAbdallah.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2EE9A4728F02C478A2DD2108EAC8A979-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0EA6EB495599A0661CC18944EDDF033E-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
       <p>YourBuddyAbdallah</p>
     </a>
     <!-- VSCode nav: [Staff/YourBuddyAbdallah.md](Staff/YourBuddyAbdallah.md) -->
