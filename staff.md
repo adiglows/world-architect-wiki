@@ -30,7 +30,7 @@
 
   <div class="block-item">
     <a href="#/Staff/torvik122.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DB36A9EB2F29027784513FE239D1F4E9-Png/420/420/AvatarHeadshot/Png/noFilter" alt="torvik122">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-237A840C8B10F427F640EFCDAF384DC7-Png/420/420/AvatarHeadshot/Png/noFilter" alt="torvik122">
       <p>torvik122</p>
     </a>
     <!-- VSCode nav: [Staff/torvik122.md](Staff/torvik122.md) -->
