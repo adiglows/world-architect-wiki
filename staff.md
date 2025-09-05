@@ -4,7 +4,7 @@
 
   <div class="block-item">
     <a href="#/Staff/UntileKakka.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-AB689766EB0D120FCC886D89B51D470C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DB083B1973EC294D6155B339A6281CCA-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
       <p>UntileKakka</p>
     </a>
     <!-- VSCode nav: [Staff/UntileKakka.md](Staff/UntileKakka.md) -->
@@ -30,7 +30,7 @@
 
   <div class="block-item">
     <a href="#/Staff/torvik122.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-237A840C8B10F427F640EFCDAF384DC7-Png/420/420/AvatarHeadshot/Png/noFilter" alt="torvik122">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A3D841EBE6F6AC92A1FED12A1A9AEE97-Png/420/420/AvatarHeadshot/Png/noFilter" alt="torvik122">
       <p>torvik122</p>
     </a>
     <!-- VSCode nav: [Staff/torvik122.md](Staff/torvik122.md) -->
@@ -38,7 +38,7 @@
 
   <div class="block-item">
     <a href="#/Staff/YourBuddyAbdallah.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C5CD06C351D8E22E831FEC55FC419C4C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2EE9A4728F02C478A2DD2108EAC8A979-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
       <p>YourBuddyAbdallah</p>
     </a>
     <!-- VSCode nav: [Staff/YourBuddyAbdallah.md](Staff/YourBuddyAbdallah.md) -->
@@ -104,7 +104,7 @@
 
   <div class="block-item">
     <a href="#/Staff/Shelby_Toner.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CDB8007395CD042387D27F8B8BF1DEA8-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Shelby_Toner">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C94B2F685FC96F8BB887F168B8EBF43E-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Shelby_Toner">
       <p>Shelby_Toner</p>
     </a>
     <!-- VSCode nav: [Staff/Shelby_Toner.md](Staff/Shelby_Toner.md) -->
