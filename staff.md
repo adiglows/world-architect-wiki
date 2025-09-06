@@ -17,10 +17,18 @@
 
   <div class="block-item">
     <a href="#/Staff/hxkjajdjhshs.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0E1A73DEA10B631087B4B2214414B262-Png/420/420/AvatarHeadshot/Png/noFilter" alt="hxkjajdjhshs">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4FFACE3331FB07D1C686CF44FA622A19-Png/420/420/AvatarHeadshot/Png/noFilter" alt="hxkjajdjhshs">
       <p>hxkjajdjhshs</p>
     </a>
     <!-- VSCode nav: [Staff/hxkjajdjhshs.md](Staff/hxkjajdjhshs.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff/DUDUMAUS.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-610101C1974D59DA882E3690744DB104-Png/420/420/AvatarHeadshot/Png/noFilter" alt="DUDUMAUS">
+      <p>DUDUMAUS</p>
+    </a>
+    <!-- VSCode nav: [Staff/DUDUMAUS.md](Staff/DUDUMAUS.md) -->
   </div>
 </div>
 
@@ -71,14 +79,6 @@
       <p>ruben070hallo</p>
     </a>
     <!-- VSCode nav: [Staff/ruben070hallo.md](Staff/ruben070hallo.md) -->
-  </div>
-
-  <div class="block-item">
-    <a href="#/Staff/DUDUMAUS.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-610101C1974D59DA882E3690744DB104-Png/420/420/AvatarHeadshot/Png/noFilter" alt="DUDUMAUS">
-      <p>DUDUMAUS</p>
-    </a>
-    <!-- VSCode nav: [Staff/DUDUMAUS.md](Staff/DUDUMAUS.md) -->
   </div>
 
   <div class="block-item">
