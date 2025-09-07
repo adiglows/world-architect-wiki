@@ -67,11 +67,6 @@
     </a>
     <!-- VSCode nav: [Staff/MrDuck1501.md](Staff/MrDuck1501.md) -->
   </div>
-</div>
-
-## Senior Moderator
-
-<div class="block-grid">
 
   <div class="block-item">
     <a href="#/Staff/ruben070hallo.md">
@@ -80,6 +75,11 @@
     </a>
     <!-- VSCode nav: [Staff/ruben070hallo.md](Staff/ruben070hallo.md) -->
   </div>
+</div>
+
+## Senior Moderator
+
+<div class="block-grid">
 
   <div class="block-item">
     <a href="#/Staff/danin232622131_YT.md">
@@ -88,11 +88,6 @@
     </a>
     <!-- VSCode nav: [Staff/danin232622131_YT.md](Staff/danin232622131_YT.md) -->
   </div>
-</div>
-
-## Junior Moderator
-
-<div class="block-grid">
 
   <div class="block-item">
     <a href="#/Staff/Wievo12.md">
@@ -100,13 +95,5 @@
       <p>Wievo12</p>
     </a>
     <!-- VSCode nav: [Staff/Wievo12.md](Staff/Wievo12.md) -->
-  </div>
-
-  <div class="block-item">
-    <a href="#/Staff/Shelby_Toner.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C94B2F685FC96F8BB887F168B8EBF43E-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Shelby_Toner">
-      <p>Shelby_Toner</p>
-    </a>
-    <!-- VSCode nav: [Staff/Shelby_Toner.md](Staff/Shelby_Toner.md) -->
   </div>
 </div>
