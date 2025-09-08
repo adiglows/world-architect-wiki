@@ -37,39 +37,15 @@
 <div class="block-grid">
 
   <div class="block-item">
-    <a href="#/Staff/torvik122.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A3D841EBE6F6AC92A1FED12A1A9AEE97-Png/420/420/AvatarHeadshot/Png/noFilter" alt="torvik122">
-      <p>torvik122</p>
-    </a>
-    <!-- VSCode nav: [Staff/torvik122.md](Staff/torvik122.md) -->
-  </div>
-
-  <div class="block-item">
     <a href="#/Staff/YourBuddyAbdallah.md">
       <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2EE9A4728F02C478A2DD2108EAC8A979-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
       <p>YourBuddyAbdallah</p>
     </a>
     <!-- VSCode nav: [Staff/YourBuddyAbdallah.md](Staff/YourBuddyAbdallah.md) -->
   </div>
-
-  <div class="block-item">
-    <a href="#/Staff/kotValentin.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-46E922F99C0260297CB03F4E0E0D6074-Png/420/420/AvatarHeadshot/Png/noFilter" alt="kotValentin">
-      <p>kotValentin</p>
-    </a>
-    <!-- VSCode nav: [Staff/kotValentin.md](Staff/kotValentin.md) -->
-  </div>
-
-  <div class="block-item">
-    <a href="#/Staff/ruben070hallo.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62F9BBEA724DE208BE8CE9A71533CE3C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="ruben070hallo">
-      <p>ruben070hallo</p>
-    </a>
-    <!-- VSCode nav: [Staff/ruben070hallo.md](Staff/ruben070hallo.md) -->
-  </div>
 </div>
 
-## Senior Moderator
+## Junior Moderator
 
 <div class="block-grid">
 
@@ -87,5 +63,29 @@
       <p>Wievo12</p>
     </a>
     <!-- VSCode nav: [Staff/Wievo12.md](Staff/Wievo12.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff/torvik122.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A3D841EBE6F6AC92A1FED12A1A9AEE97-Png/420/420/AvatarHeadshot/Png/noFilter" alt="torvik122">
+      <p>torvik122</p>
+    </a>
+    <!-- VSCode nav: [Staff/torvik122.md](Staff/torvik122.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff/kotValentin.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A790803111312C067098B8737919DCD7-Png/420/420/AvatarHeadshot/Png/noFilter" alt="kotValentin">
+      <p>kotValentin</p>
+    </a>
+    <!-- VSCode nav: [Staff/kotValentin.md](Staff/kotValentin.md) -->
+  </div>
+
+  <div class="block-item">
+    <a href="#/Staff/ruben070hallo.md">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62F9BBEA724DE208BE8CE9A71533CE3C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="ruben070hallo">
+      <p>ruben070hallo</p>
+    </a>
+    <!-- VSCode nav: [Staff/ruben070hallo.md](Staff/ruben070hallo.md) -->
   </div>
 </div>
