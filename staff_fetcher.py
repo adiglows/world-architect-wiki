@@ -12,9 +12,9 @@ STAFF_FOLDER = "Staff"  # Folder for individual staff pages
 ROLE_IDS = [
     (496092058, "Creator"),
     (488634029, "Developer"),
-    (479342092, "Administrator"),
-    (483560069, "Senior Moderator"),
-    (488738058, "Junior Moderator"),
+    (479342092, "Manager"),
+    (483560069, "Administrator"),
+    (488738058, "Moderator"),
 ]
 
 os.makedirs(STAFF_FOLDER, exist_ok=True)
