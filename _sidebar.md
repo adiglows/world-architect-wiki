@@ -2,9 +2,9 @@
 - Staff
   - [Creator](staff.md#creator)
   - [Developer](staff.md#developer)
-  - [Administrator](staff.md#manager)
-  - [Senior Moderator](staff.md#administrator)
-  - [Junior Moderator](staff.md#moderator)
+  - [Manager](staff.md#manager)
+  - [Administrator](staff.md#administrator)
+  - [Moderator](staff.md#moderator)
 - Wiki Team
   - [Wiki Team Leader](wiki_team.md#wiki-team-leader)
   - [Contributors](wiki_team.md#contributors)
