@@ -32,7 +32,7 @@
   </div>
 </div>
 
-## Administrator
+## Manager
 
 <div class="block-grid">
 
@@ -45,7 +45,7 @@
   </div>
 </div>
 
-## Junior Moderator
+## Moderator
 
 <div class="block-grid">
 
