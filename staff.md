@@ -51,7 +51,7 @@
 
   <div class="block-item">
     <a href="#/Staff/danin232622131_YT.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0E2871C3512196392939C63E5D2DC5AF-Png/420/420/AvatarHeadshot/Png/noFilter" alt="danin232622131_YT">
+      <img src="" alt="danin232622131_YT">
       <p>danin232622131_YT</p>
     </a>
     <!-- VSCode nav: [Staff/danin232622131_YT.md](Staff/danin232622131_YT.md) -->
