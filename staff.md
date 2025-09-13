@@ -25,7 +25,7 @@
 
   <div class="block-item">
     <a href="#/Staff/DUDUMAUS.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-610101C1974D59DA882E3690744DB104-Png/420/420/AvatarHeadshot/Png/noFilter" alt="DUDUMAUS">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F75BF30D1FE3F9F2DE7F3DFD860477D2-Png/420/420/AvatarHeadshot/Png/noFilter" alt="DUDUMAUS">
       <p>DUDUMAUS</p>
     </a>
     <!-- VSCode nav: [Staff/DUDUMAUS.md](Staff/DUDUMAUS.md) -->
@@ -59,7 +59,7 @@
 
   <div class="block-item">
     <a href="#/Staff/Wievo12.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-66E4DDE441707384DE7A186540B2743B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-19D0BEFBC034784E1A835081BDB89F89-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
       <p>Wievo12</p>
     </a>
     <!-- VSCode nav: [Staff/Wievo12.md](Staff/Wievo12.md) -->
