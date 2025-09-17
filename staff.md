@@ -4,7 +4,7 @@
 
   <div class="block-item">
     <a href="#/Staff/UntileKakka.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1545FBEE3BF9306AE44B877B83929302-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-65BBE37814681A5210C2177FF400E07B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
       <p>UntileKakka</p>
     </a>
     <!-- VSCode nav: [Staff/UntileKakka.md](Staff/UntileKakka.md) -->
@@ -83,7 +83,7 @@
 
   <div class="block-item">
     <a href="#/Staff/ruben070hallo.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62F9BBEA724DE208BE8CE9A71533CE3C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="ruben070hallo">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-094050C5FA286DAEC2360D9C82934E34-Png/420/420/AvatarHeadshot/Png/noFilter" alt="ruben070hallo">
       <p>ruben070hallo</p>
     </a>
     <!-- VSCode nav: [Staff/ruben070hallo.md](Staff/ruben070hallo.md) -->
