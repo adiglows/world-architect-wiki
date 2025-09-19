@@ -38,7 +38,7 @@
 
   <div class="block-item">
     <a href="#/Staff/YourBuddyAbdallah.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2EE9A4728F02C478A2DD2108EAC8A979-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-96C6E31BB6046C2E179FA947D447CE86-Png/420/420/AvatarHeadshot/Png/noFilter" alt="YourBuddyAbdallah">
       <p>YourBuddyAbdallah</p>
     </a>
     <!-- VSCode nav: [Staff/YourBuddyAbdallah.md](Staff/YourBuddyAbdallah.md) -->
@@ -59,7 +59,7 @@
 
   <div class="block-item">
     <a href="#/Staff/Wievo12.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-19D0BEFBC034784E1A835081BDB89F89-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B3771331689ADB10F1B880BEC10A99BD-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
       <p>Wievo12</p>
     </a>
     <!-- VSCode nav: [Staff/Wievo12.md](Staff/Wievo12.md) -->
