@@ -11,27 +11,6 @@
   </div>
 </div>
 
-## Developer
-
-<div class="block-grid">
-
-  <div class="block-item">
-    <a href="#/Staff/hxkjajdjhshs.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4FFACE3331FB07D1C686CF44FA622A19-Png/420/420/AvatarHeadshot/Png/noFilter" alt="hxkjajdjhshs">
-      <p>hxkjajdjhshs</p>
-    </a>
-    <!-- VSCode nav: [Staff/hxkjajdjhshs.md](Staff/hxkjajdjhshs.md) -->
-  </div>
-
-  <div class="block-item">
-    <a href="#/Staff/DUDUMAUS.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F75BF30D1FE3F9F2DE7F3DFD860477D2-Png/420/420/AvatarHeadshot/Png/noFilter" alt="DUDUMAUS">
-      <p>DUDUMAUS</p>
-    </a>
-    <!-- VSCode nav: [Staff/DUDUMAUS.md](Staff/DUDUMAUS.md) -->
-  </div>
-</div>
-
 ## Manager
 
 <div class="block-grid">
@@ -59,7 +38,7 @@
 
   <div class="block-item">
     <a href="#/Staff/Wievo12.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0207EA84F3604F2106DEA52D27218D0B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BAEEE4CD7933E0E72E76D98829DB4706-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
       <p>Wievo12</p>
     </a>
     <!-- VSCode nav: [Staff/Wievo12.md](Staff/Wievo12.md) -->
