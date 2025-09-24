@@ -4,7 +4,7 @@
 
   <div class="block-item">
     <a href="#/Staff/UntileKakka.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40B36DDEFEF3915E6A59B2552122A1EA-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-233AC2886D09285CDF45280C86F95C54-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
       <p>UntileKakka</p>
     </a>
     <!-- VSCode nav: [Staff/UntileKakka.md](Staff/UntileKakka.md) -->
