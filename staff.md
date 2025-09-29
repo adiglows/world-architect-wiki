@@ -1,16 +1,3 @@
-## Creator
-
-<div class="block-grid">
-
-  <div class="block-item">
-    <a href="#/Staff/UntileKakka.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DA257915C5460E97422B2EE903CF2B8B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="UntileKakka">
-      <p>UntileKakka</p>
-    </a>
-    <!-- VSCode nav: [Staff/UntileKakka.md](Staff/UntileKakka.md) -->
-  </div>
-</div>
-
 ## Moderator
 
 <div class="block-grid">
@@ -29,14 +16,6 @@
       <p>torvik122</p>
     </a>
     <!-- VSCode nav: [Staff/torvik122.md](Staff/torvik122.md) -->
-  </div>
-
-  <div class="block-item">
-    <a href="#/Staff/MrDuck1501.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0668FA0DD07932B1448FA3A3EC68906B-Png/420/420/AvatarHeadshot/Png/noFilter" alt="MrDuck1501">
-      <p>MrDuck1501</p>
-    </a>
-    <!-- VSCode nav: [Staff/MrDuck1501.md](Staff/MrDuck1501.md) -->
   </div>
 
   <div class="block-item">
