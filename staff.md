@@ -20,7 +20,7 @@
 
   <div class="block-item">
     <a href="#/Staff/kotValentin.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A790803111312C067098B8737919DCD7-Png/420/420/AvatarHeadshot/Png/noFilter" alt="kotValentin">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-327551A2FA56C8719258442F9BE9D779-Png/420/420/AvatarHeadshot/Png/noFilter" alt="kotValentin">
       <p>kotValentin</p>
     </a>
     <!-- VSCode nav: [Staff/kotValentin.md](Staff/kotValentin.md) -->
