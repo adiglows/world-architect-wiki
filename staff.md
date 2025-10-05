@@ -36,7 +36,7 @@
 
   <div class="block-item">
     <a href="#/Staff/Wievo12.md">
-      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-19D0BEFBC034784E1A835081BDB89F89-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
+      <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8C8CF4BBB623433E5B4A68F99505BC4C-Png/420/420/AvatarHeadshot/Png/noFilter" alt="Wievo12">
       <p>Wievo12</p>
     </a>
     <!-- VSCode nav: [Staff/Wievo12.md](Staff/Wievo12.md) -->
